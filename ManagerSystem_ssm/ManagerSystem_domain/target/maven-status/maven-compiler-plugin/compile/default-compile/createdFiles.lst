@@ -1,0 +1,8 @@
+com\water\ssm\domain\Product.class
+com\water\ssm\domain\SysLog.class
+com\water\ssm\domain\Role.class
+com\water\ssm\domain\UserInfo.class
+com\water\ssm\domain\Member.class
+com\water\ssm\domain\Permission.class
+com\water\ssm\domain\Orders.class
+com\water\ssm\domain\Traveller.class

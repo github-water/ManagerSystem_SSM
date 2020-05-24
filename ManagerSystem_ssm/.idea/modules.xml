@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_dao/ManagerSystem_dao.iml" filepath="$PROJECT_DIR$/ManagerSystem_dao/ManagerSystem_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_domain/ManagerSystem_domain.iml" filepath="$PROJECT_DIR$/ManagerSystem_domain/ManagerSystem_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_service/ManagerSystem_service.iml" filepath="$PROJECT_DIR$/ManagerSystem_service/ManagerSystem_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_ssm.iml" filepath="$PROJECT_DIR$/ManagerSystem_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_util/ManagerSystem_util.iml" filepath="$PROJECT_DIR$/ManagerSystem_util/ManagerSystem_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagerSystem_web/ManagerSystem_web.iml" filepath="$PROJECT_DIR$/ManagerSystem_web/ManagerSystem_web.iml" />
+    </modules>
+  </component>
+</project>

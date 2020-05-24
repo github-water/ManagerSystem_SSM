@@ -1,0 +1,7 @@
+com\water\ssm\controller\OrdersController.class
+com\water\ssm\controller\RoleController.class
+com\water\ssm\controller\SysLogController.class
+com\water\ssm\controller\LogAop.class
+com\water\ssm\controller\ProductController.class
+com\water\ssm\controller\PermissionController.class
+com\water\ssm\controller\UserController.class

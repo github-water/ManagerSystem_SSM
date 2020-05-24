@@ -1,0 +1,8 @@
+com\water\ssm\dao\IMemberDao.class
+com\water\ssm\dao\IUserDao.class
+com\water\ssm\dao\ISysLogDao.class
+com\water\ssm\dao\IOrdersDao.class
+com\water\ssm\dao\IPermissionDao.class
+com\water\ssm\dao\ITravellersDao.class
+com\water\ssm\dao\IRoleDao.class
+com\water\ssm\dao\IProductDao.class

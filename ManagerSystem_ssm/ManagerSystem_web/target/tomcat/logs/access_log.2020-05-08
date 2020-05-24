@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [08/May/2020:15:46:53 +0800] "GET /ManagerSystem_web/orders/findAll.do?page=1&size=5 HTTP/1.1" 302 - http-bio-8888-exec-2 119
+0:0:0:0:0:0:0:1 - - [08/May/2020:15:46:54 +0800] "GET /ManagerSystem_web/login.jsp HTTP/1.1" 200 2669 http-bio-8888-exec-3 799
+0:0:0:0:0:0:0:1 - - [08/May/2020:15:47:54 +0800] "POST /ManagerSystem_web/login.do HTTP/1.1" 200 13596 http-bio-8888-exec-4 2071
+0:0:0:0:0:0:0:1 - - [08/May/2020:15:47:57 +0800] "GET /ManagerSystem_web/sysLog/findAll.do HTTP/1.1" 200 17413 http-bio-8888-exec-5 419
